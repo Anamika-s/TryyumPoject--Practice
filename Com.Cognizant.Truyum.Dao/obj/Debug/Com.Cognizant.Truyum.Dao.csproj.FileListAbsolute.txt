@@ -1,0 +1,11 @@
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Dao.dll
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Model.dll
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csprojAssemblyReference.cache
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csproj.CoreCompileInputs.cache
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csproj.CopyComplete
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.dll
+E:\CTS\TruumProject\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.pdb
